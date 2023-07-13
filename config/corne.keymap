@@ -63,7 +63,7 @@
 //                                      | ESC> SYS | ⌫> NUM  |  SPACE  |	|   TAB   | SYMBOL |  SHIFT  |
 //                                       ------------------------------ 	 ----------------------------
 			bindings = <
-    &none     &kp   Q   &kp   W   &kp   E   &kp   R   &kp   T   							&kp   J   &kp   L   &kp   U   &kp   Y   &kp STAR  &none     
+    &none     &kp   Q   &kp   W   &kp   F   &kp   P   &kp   B   							&kp   J   &kp   L   &kp   U   &kp   Y   &kp STAR  &none     
 
     &none &mt_ LSHFT A &mt_ LCTRL R &mt_ LALT S &mt_ LGUI T &mt_ LA(LS(LC(LGUI))) G &mt_ RA(RS(RC(RGUI))) M &mt_ RGUI N &mt_ RALT E &mt_ RCTRL I &mt_ RSHFT O &none     
 
