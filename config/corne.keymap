@@ -108,7 +108,7 @@
 
     &none     &kp  DEL  &kp  GT   &kp LBKT  &kp LPAR  &kp LBRC  						&kp MINUS &kp UNDER &kp COLON &kp SEMI  &kp HASH  &none     
 
-    &none     &trans    &kp  LT   &kp RBKT  &kp RPAR  &kp RBRC  						&kp PLUS  &kp EQUAL &kp QMARK &kp RBRC  &kp  DQT  &none     
+    &none     &trans    &kp  LT   &kp RBKT  &kp RPAR  &kp RBRC  						&kp PLUS  &kp EQUAL &kp QMARK &kp EXCL  &kp  DQT  &none     
 
                                           &trans    &trans    &trans    		&trans    &trans    &trans    
 			>;
