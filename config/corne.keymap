@@ -39,7 +39,7 @@
 			flavor = "tap-preferred";
 			tapping-term-ms = <200>;
 			bindings = <&kp>, <&kp>;
-		}
+		};
 		lt_: custom_layer_tap {
 			compatible = "zmk,behavior-hold-tap";
 			label = "LAYER_TAP";
@@ -47,8 +47,8 @@
 			flavor = "balanced";
 			tapping-term-ms = <200>;
 			bindings = <&mo>, <&kp>;
-		}
-	}
+		};
+	};
 	keymap {
 		compatible = "zmk,keymap";
 
@@ -131,5 +131,5 @@
                                          &trans     &trans     &kp K_POWER		&trans     &trans      &trans     
 			>;
 		};
-	}
+	};
 };
