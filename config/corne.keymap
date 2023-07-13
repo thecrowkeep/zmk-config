@@ -69,7 +69,7 @@
 
     &none     &kp   Z   &kp   X   &kp   C   &kp   D   &kp   V   							&kp   K   &kp   H   &kp COMMA &kp  DOT  &kp APOS  &none     
 
-                                       &lt_ 3 ESC &Lt_ 1 BSPC &kp SPACE 		&kp  TAB  &mo   2   &kp LSHFT  
+                                       &lt_ 3 ESC &lt_ 1 BSPC &kp SPACE 		&kp  TAB  &mo   2   &kp LSHFT  
 			>;
 		};
 		lower_layer {
