@@ -37,7 +37,7 @@
 			label = "MOD_TAP";
 			#binding-cells = <2>;
 			flavor = "tap-preferred";
-			tapping-term-ms = <150>;
+			tapping-term-ms = <200>;
 			bindings = <&kp>, <&kp>;
 		};
 		lt_: custom_layer_tap {
